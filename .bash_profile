@@ -59,3 +59,4 @@ export VULTR_USER="lujingze@45.76.118.79"
 export AMAZON_UBUNTU=" -i ~/.ssh/amazon_ubuntu.pem ubuntu@ec2-52-15-211-39.us-east-2.compute.amazonaws.com"
 export LAB907=' lab907@192.168.8.107'
 alias config='/usr/bin/git --git-dir=$HOME/.cfg/ --work-tree=$HOME'
+
